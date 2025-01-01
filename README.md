@@ -9,5 +9,7 @@
 
 Ваш бот готов! И может функционировать!
 Скрины:
-<img src="https://github.com/cookielast/feedback_bot/blob/main/screenshots/answer.png">
-<img src="https://github.com/cookielast/feedback_bot/blob/main/screenshots/list_mesages.png">
+<div id="left" align="left">
+  <img src="https://github.com/cookielast/feedback_bot/blob/main/screenshots/answer.png">
+  <img src="https://github.com/cookielast/feedback_bot/blob/main/screenshots/list_mesages.png">
+</div>
