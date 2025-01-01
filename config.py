@@ -2,7 +2,7 @@
 token = ""
 
 admin = "" # Ваш тг айди
-adminname = "cookielast'у" # Ваш тг юзернейм
+adminname = "cookielast'у"
 botname = "@cookielastneverbot" # Бот тг юзернейм
 
 # Визуальная часть бота
